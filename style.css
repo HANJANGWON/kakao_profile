@@ -1,0 +1,79 @@
+
+
+.kakao{
+    position: relative;
+    width: 480px;
+    height: 800px;
+    margin: 50px auto;
+    border: 1px solid gray;
+}
+
+.header {
+    width: 480px;
+    height: 500px;
+    background-image: url(/icon/20210629_152052.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.message {
+    color: white;
+    text-align: center;
+}
+
+.banner {
+    height: 300px;
+    width: 480px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.icon {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10pt;
+}
+
+.chat_icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon_img {
+    width: 40px;
+    height: 40px;
+}
+
+.prifile_icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.story_icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_img {
+    width: 100px;
+    height: 100px;
+    top: 450px;
+    left: 190px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+}
+
+
+
+
